@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersection contains common elements only[0m[0m
+[0m[[0minfo[0m] [0m[32m- Filter works like intersection[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff works[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall works[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists works[0m[0m
+[0m[[0minfo[0m] [0m[31m- map works *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  FunSets.contains($anon.this.mapped, 2) was false map 2 (FunSetSuite.scala:170)[0m[0m
